@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.binarydomain.xyz/fr/</loc>
+    <loc>https://www.binarydomain.xyz/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.binarydomain.xyz/"
+                href="https://www.binarydomain.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.binarydomain.xyz/fr/"
+                href="https://www.binarydomain.xyz/fr/"
                 />
   </url><url>
-    <loc>www.binarydomain.xyz/fr/categories/</loc>
+    <loc>https://www.binarydomain.xyz/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.binarydomain.xyz/categories/"
+                href="https://www.binarydomain.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.binarydomain.xyz/fr/categories/"
+                href="https://www.binarydomain.xyz/fr/categories/"
                 />
   </url><url>
-    <loc>www.binarydomain.xyz/fr/series/</loc>
+    <loc>https://www.binarydomain.xyz/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.binarydomain.xyz/series/"
+                href="https://www.binarydomain.xyz/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.binarydomain.xyz/fr/series/"
+                href="https://www.binarydomain.xyz/fr/series/"
                 />
   </url><url>
-    <loc>www.binarydomain.xyz/fr/tags/</loc>
+    <loc>https://www.binarydomain.xyz/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.binarydomain.xyz/tags/"
+                href="https://www.binarydomain.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="www.binarydomain.xyz/fr/tags/"
+                href="https://www.binarydomain.xyz/fr/tags/"
                 />
   </url>
 </urlset>
