@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.binarydomain.xyz/posts/2021/03/hugo-template-primer/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.binarydomain.xyz/about/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.binarydomain.xyz/categories/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -20,6 +14,72 @@
                 hreflang="en"
                 href="https://www.binarydomain.xyz/categories/"
                 />
+  </url><url>
+    <loc>https://www.binarydomain.xyz/categories/git/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/tags/git/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/series/git-101/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/posts/2021/03/password-less-login-for-github-with-ssh/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/posts/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/series/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.binarydomain.xyz/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.binarydomain.xyz/series/"
+                />
+  </url><url>
+    <loc>https://www.binarydomain.xyz/categories/ssh/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/tags/ssh/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/tags/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.binarydomain.xyz/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.binarydomain.xyz/tags/"
+                />
+  </url><url>
+    <loc>https://www.binarydomain.xyz/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.binarydomain.xyz/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.binarydomain.xyz/"
+                />
+  </url><url>
+    <loc>https://www.binarydomain.xyz/posts/2021/03/hugo-template-primer/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.binarydomain.xyz/about/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.binarydomain.xyz/categories/development/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
@@ -39,52 +99,10 @@
     <loc>https://www.binarydomain.xyz/series/hugo-101/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.binarydomain.xyz/posts/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.binarydomain.xyz/series/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.binarydomain.xyz/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.binarydomain.xyz/series/"
-                />
-  </url><url>
-    <loc>https://www.binarydomain.xyz/tags/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.binarydomain.xyz/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.binarydomain.xyz/tags/"
-                />
-  </url><url>
     <loc>https://www.binarydomain.xyz/tags/templates/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.binarydomain.xyz/tags/themes/</loc>
     <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.binarydomain.xyz/</loc>
-    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.binarydomain.xyz/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.binarydomain.xyz/"
-                />
   </url>
 </urlset>

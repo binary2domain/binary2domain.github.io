@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Welcome to BinaryDomain</title>
+    <link>https://www.binarydomain.xyz/tags/git/</link>
+    <description>Recent content in git on Welcome to BinaryDomain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.binarydomain.xyz/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Password-less login for Github with SSH</title>
+      <link>https://www.binarydomain.xyz/posts/2021/03/password-less-login-for-github-with-ssh/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.binarydomain.xyz/posts/2021/03/password-less-login-for-github-with-ssh/</guid>
+      <description>Github repositories by default are secured with username and password. Github also allows access to repositories via SSH login protocol.
+The SSH protocol, let&amp;rsquo;s you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub without supplying your username and personal access token at each visit or any git operation such as clone, fetch or push.
+This quick guide will help you set up a password-less github experience.</description>
+    </item>
+    
+  </channel>
+</rss>
